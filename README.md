@@ -1,8 +1,5 @@
 # infrastructure-as-code
-# BorisVerbrugge.com
-source code for borisverbrugge.com
-
-markdown syntax url incoming
+infrastructure code for borisverbrugge.com
 
 ### Markdown reference
 
